@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+}
+.table{
+    margin: auto;
+    margin-top: 20px;
+    width: 271px;
+    height: 315px;
+}
+
+input{
+    font-size: 34px;
+    width: 637px;
+    height: 47px;
+}
+button{
+    font-size: 38px;
+    background-color: aqua;
+    width: 159px;
+    height: 85px;
+}
+p{
+    margin-left: 40px;
+    color: green;
+}
